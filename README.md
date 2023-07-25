@@ -55,3 +55,4 @@ Note: Use Androidacy Module Manager If you're having trouble install it in Magis
 - I noticed that more and more people are having this problem. It's becoming widespread day-by-day. If you think about it, the people who are experiencing it the most are the ***Google apps users***.
 - It just happened to my phone last week, and it's almost always up-to-date, so it must be the recent updates, right? ***(probably)***
 - Flashing the full July 16 NikGapps build fixes it. ***(Coincidence?)***
+- It undid itself and the battery drain problem came back. (***New updated method*** at the top)
