@@ -1,10 +1,10 @@
 # Poco F1 (beryllium) **Deep sleep** or **High idle drain** fix
 
-## TL;DR: To long don't wanna read
-
-**UPDATE** ***7/25/23***
+## **UPDATE** ***7/25/23***
 
 - Install [ACC Magisk Module](https://github.com/VR-25/acc), as simple as that.
+
+## TL;DR: To long don't wanna read
 
 - Flash the **latest** [NikGapps](https://sourceforge.net/projects/nikgapps/files/Releases/)
 - Make sure to **edit** the **nikgapps.config** to avoid overwriting your ROM's default launcher (Usefull if your Custom ROM uses it's own custom launcher eg. EvoX, crDroid)
@@ -14,6 +14,7 @@
 ## Table of contents
 
 - [Poco F1 (beryllium) **Deep sleep** or **High idle drain** fix](#poco-f1-beryllium-deep-sleep-or-high-idle-drain-fix)
+  - [**UPDATE** ***7/25/23***](#update-72523)
   - [TL;DR: To long don't wanna read](#tldr-to-long-dont-wanna-read)
   - [Table of contents](#table-of-contents)
   - [Overview: The Issue / Problem details](#overview-the-issue--problem-details)
