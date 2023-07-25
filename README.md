@@ -2,6 +2,10 @@
 
 ## TL;DR: To long don't wanna read
 
+**UPDATE** ***7/25/23***
+
+- Install [ACC Magisk Module](https://github.com/VR-25/acc), as simple as that.
+
 - Flash the **latest** [NikGapps](https://sourceforge.net/projects/nikgapps/files/Releases/)
 - Make sure to **edit** the **nikgapps.config** to avoid overwriting your ROM's default launcher (Usefull if your Custom ROM uses it's own custom launcher eg. EvoX, crDroid)
 - **crDroid users** you could use this instead [crDroid NikGapps](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/Gwolf2u/NikGapps-T/)
