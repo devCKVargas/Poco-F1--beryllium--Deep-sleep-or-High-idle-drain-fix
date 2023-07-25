@@ -2,9 +2,10 @@
 
 ## **UPDATE** ***7/25/23***
 
-- Install [ACC Magisk Module](https://github.com/VR-25/acc), as simple as that.
+- Install [ACC Magisk Module](https://github.com/VR-25/acc), as simple as that. You won't be needing to flash any Gapps.zip
+Note: Use Androidacy Module Manager If you're having trouble install it in Magisk.
 
-## TL;DR: To long don't wanna read
+## TL;DR: To long don't wanna read (**Outdated** but still works
 
 - Flash the **latest** [NikGapps](https://sourceforge.net/projects/nikgapps/files/Releases/)
 - Make sure to **edit** the **nikgapps.config** to avoid overwriting your ROM's default launcher (Usefull if your Custom ROM uses it's own custom launcher eg. EvoX, crDroid)
