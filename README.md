@@ -18,8 +18,9 @@ Note: Use Androidacy Module Manager If you're having trouble install it in Magis
 
 ## Table of contents
 
-- [**Deep sleep, High idle drain, high temperature fix**](#deep-sleep-high-idle-drain-high-temperature-fix)
-  - [**UPDATE** ***7/25/23***](#update-72523)
+- [Deep sleep, High idle drain, high temperature fix](#deep-sleep-high-idle-drain-high-temperature-fix)
+  - [UPDATE ***5/3/24***](#update-5324)
+  - [UPDATE ***7/25/23***](#update-72523)
   - [TL;DR: To long don't wanna read](#tldr-to-long-dont-wanna-read)
   - [Table of contents](#table-of-contents)
   - [Overview: The Issue / Problem details](#overview-the-issue--problem-details)
