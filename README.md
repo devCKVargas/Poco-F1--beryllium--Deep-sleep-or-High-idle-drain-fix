@@ -1,4 +1,8 @@
-# Poco F1 (beryllium) **Deep sleep** or **High idle drain** fix
+# **Deep sleep, High idle drain, high temperature fix**
+
+## **UPDATE** ***5/3/24**
+- The issue still exist in the last A13 build. This could theoretically be exactly like what Apple purposely did where they made the older iPhones to have battery drain issues on the latest version of iOS that it supports, to gaslight users into thinking they have hardware battery problem but in reality they forced users to upgrade and buy newer iPhones.
+[Apple admitted this and you can do a quick search to verify this](https://letmegooglethat.com/?q=apple+admits+planned+iphone+battery+failure)
 
 ## **UPDATE** ***7/25/23***
 
@@ -14,7 +18,7 @@ Note: Use Androidacy Module Manager If you're having trouble install it in Magis
 
 ## Table of contents
 
-- [Poco F1 (beryllium) **Deep sleep** or **High idle drain** fix](#poco-f1-beryllium-deep-sleep-or-high-idle-drain-fix)
+- [**Deep sleep, High idle drain, high temperature fix**](#deep-sleep-high-idle-drain-high-temperature-fix)
   - [**UPDATE** ***7/25/23***](#update-72523)
   - [TL;DR: To long don't wanna read](#tldr-to-long-dont-wanna-read)
   - [Table of contents](#table-of-contents)
